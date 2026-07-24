@@ -6,14 +6,20 @@ public abstract class Rule {
 
     //the first thing each rule has its own fees
     private int fees ;
+    private String label;
 
-    public Rule(int fees){
+    public Rule(int fees , String label){
         this.fees=fees;
+        this.label=label;
 
     }
 
     public int getFees(){
         return fees;
+    }
+
+    public String getLabel() {
+        return label;
     }
 
 //and this to help radar to print and that why here we use the delegation

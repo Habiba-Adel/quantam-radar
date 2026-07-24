@@ -6,7 +6,7 @@ public class SeatBeltRule extends Rule{
     private boolean requiredStatus;
 
     public SeatBeltRule(int fees) {
-        super(fees);
+        super(fees,"Seatbelt Rule");
         requiredStatus = true;
     }
 

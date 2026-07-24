@@ -28,7 +28,7 @@ public class History {
         totalFees.put(plate, totalFees.getOrDefault(plate, 0) + fees);
 
         for (Rule rule : observation.getViolatedRules()) {
-            String ruleName = rule.getClass().getSimpleName(); // to get the rule name cause we not save them ar rule information and there is no need for that the name is like the child class name
+            String ruleName = rule.getLabel();
             violatedRulesCount.put(ruleName, violatedRulesCount.getOrDefault(ruleName, 0) + 1);
         }
     }

@@ -7,7 +7,7 @@ public class SpeedRule extends Rule {
 
 
     public SpeedRule(int fees,CarType type,int maxSpeed) {
-        super(fees);
+        super(fees ,type + " Speed Limit");
         this.type=type;
         this.maxSpeed=maxSpeed;
     }

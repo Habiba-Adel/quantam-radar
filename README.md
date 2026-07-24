@@ -3,14 +3,14 @@
 **Before writing any code, I first thought through the full design on a whiteboard.**
 This video walks through that thinking process:
 
-**[▶ Watch the brainstorming video]([YOUR_VIDEO_LINK_HERE](https://drive.google.com/file/d/11NrSbBHh29RCvrGDl1DKyNc_kCZaPgxK/view?usp=sharing))**
+**[▶ Watch the brainstorming video](https://drive.google.com/file/d/11NrSbBHh29RCvrGDl1DKyNc_kCZaPgxK/view?usp=sharing)**
 
 ---
 
 ## 💻 Code Walkthrough & Run Demo
 **This video shows the final implementation, running it, and the output.**
 
-**[▶ Watch the code & demo video]([YOUR_VIDEO_LINK_HERE](https://drive.google.com/file/d/1D52nEYYwiVC778Ync9nkILUc0OGH2Wy4/view?usp=sharing))**
+**[▶ Watch the code & demo video](https://drive.google.com/file/d/1D52nEYYwiVC778Ync9nkILUc0OGH2Wy4/view?usp=sharing)**
 
 ---
 
